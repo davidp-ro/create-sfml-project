@@ -1,0 +1,6 @@
+{
+    "DUMP-CONFIG": false,
+    "SFML-PATH": "D:\\SFML-2.5.1",
+    "TARGET": "debug",
+    "PAUSE-CMD": true
+}
